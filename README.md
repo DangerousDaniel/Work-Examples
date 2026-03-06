@@ -1,4 +1,4 @@
-Work Examples
+## Work Examples
 Welcome to the work examples repo for my portfolio website creation.
 
 ## About The Repo
